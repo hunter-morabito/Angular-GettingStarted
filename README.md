@@ -1,27 +1,25 @@
-# APM
+# Angular-Getting Started
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project was completed alongside the 'Angular-Getting Started' course offered by Pluralsight. Instructed by Deborah Kurata
 
-## Development server
+## Lecture List
+### Introduction
+* Anatomy of an Angular Application
+* Get the Most from This Course
+* Sample Application
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### First Things First
+* Selecting a Language
+* Selecting and Editor
+* Setting up Our Environment
+* Setting up an Angular Application
+* Installing an Angular Application
+* Running an Angular Applicaiton
+* About Modules
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Introduction to Components
+* What is a Component
+* Creating the Component Class
+* Defining the Metadata with a Decorator
+* Importing What We Need
+* Demo: Creating the App Component
