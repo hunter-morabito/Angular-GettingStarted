@@ -25,3 +25,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Demo: Creating the App Component
 * Bootstrapping Our App Component
 * Demo: Bootstrapping Our App Component
+* Checklists and Summary
+
+### Templates, Interpolation, and Directives
