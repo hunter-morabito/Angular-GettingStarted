@@ -8,7 +8,6 @@ import { Component } from "@angular/core";
   </div>
   `
 })
-
 export class AppComponent {
   pageTitle: string = 'Acme Produce Management';
 }

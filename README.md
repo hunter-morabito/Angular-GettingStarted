@@ -23,3 +23,5 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Defining the Metadata with a Decorator
 * Importing What We Need
 * Demo: Creating the App Component
+* Bootstrapping Our App Component
+* Demo: Bootstrapping Our App Component
