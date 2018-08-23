@@ -28,3 +28,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Checklists and Summary
 
 ### Templates, Interpolation, and Directives
+* Building a Template
+* Building the Component
+* Using a Component as a Directive
