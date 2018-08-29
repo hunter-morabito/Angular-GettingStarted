@@ -32,3 +32,4 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Building the Component
 * Using a Component as a Directive
 * Binding with Interpolation
+* Adding Logic and Directives: ngIf
