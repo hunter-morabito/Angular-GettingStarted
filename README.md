@@ -33,3 +33,4 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Using a Component as a Directive
 * Binding with Interpolation
 * Adding Logic and Directives: ngIf
+* Adding Logic and Directives: ngFor
