@@ -39,3 +39,4 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 ### Data Binding & Pipes
 * Property Binding
 * Handling Events with Event Binding
+* Handling Input with Two-way Binding
