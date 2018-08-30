@@ -46,3 +46,4 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 ### More on Components
 * Defining Interfaces
 * Encapsulating Component Styles
+* Using Lifecycle Hooks  
