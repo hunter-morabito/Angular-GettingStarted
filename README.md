@@ -50,3 +50,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Building Custom Pipes
 * Filtering a List
 * Checklists and Summary
+
+### Building Nested Components
+* Building a Nested Component
