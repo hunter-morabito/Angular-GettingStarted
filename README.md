@@ -42,3 +42,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Handling Input with Two-way Binding
 * Transforming Data with Pipes
 * Checklists and Summary
+
+### More on Components
+* Defining Interfaces
