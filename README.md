@@ -55,3 +55,5 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Building a Nested Component
 * Using a Nested Component
 * Passing Data to a Nested Component
+* Passing Data from a Nested Component
+* Checklists and Summary
