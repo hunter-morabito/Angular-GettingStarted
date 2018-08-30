@@ -48,3 +48,5 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Encapsulating Component Styles
 * Using Lifecycle Hooks
 * Building Custom Pipes
+* Filtering a List
+* Checklists and Summary
