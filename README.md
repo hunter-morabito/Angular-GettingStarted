@@ -69,3 +69,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Sending an HTTP Request
 * Demo: Sending an HTTP Request
 * Exception Handling
+* Subscribing to an Observable
+* Demo: Subscribing to an Observable
+* Checklists and Summary
