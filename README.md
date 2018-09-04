@@ -75,3 +75,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 
 ### Navigation and Routing Basics
 * Generating Code and Handling Undefined
+* How Routing Works
+* Configuring Routes
+* Demo: Configuring Routes
