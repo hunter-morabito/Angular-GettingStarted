@@ -68,3 +68,4 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Observables and Reactive Extensions
 * Sending an HTTP Request
 * Demo: Sending an HTTP Request
+* Exception Handling
