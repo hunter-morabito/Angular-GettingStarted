@@ -72,3 +72,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Subscribing to an Observable
 * Demo: Subscribing to an Observable
 * Checklists and Summary
+
+### Navigation and Routing Basics
+* Generating Code and Handling Undefined
