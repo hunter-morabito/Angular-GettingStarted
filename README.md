@@ -78,3 +78,5 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * How Routing Works
 * Configuring Routes
 * Demo: Configuring Routes
+* Trying Routes To Actions
+* Placing the Views
