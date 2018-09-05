@@ -85,3 +85,4 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 ### Navigation and Routing Additional Techniques
 * Passing Parameters to a Route
 * Demo: Passing Parameters to a Route
+* Activating a Route with Code
