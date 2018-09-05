@@ -86,3 +86,6 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Passing Parameters to a Route
 * Demo: Passing Parameters to a Route
 * Activating a Route with Code
+* Protecting Routes with Gaurds
+* Demo: Protecting Routes with Gaurds
+* Checklists and Summary
