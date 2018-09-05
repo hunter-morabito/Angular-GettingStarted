@@ -80,3 +80,8 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Demo: Configuring Routes
 * Trying Routes To Actions
 * Placing the Views
+* Checklists and Summary
+
+### Navigation and Routing Additional Techniques
+* Passing Parameters to a Route
+* Demo: Passing Parameters to a Route
