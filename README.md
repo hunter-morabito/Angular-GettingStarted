@@ -89,3 +89,13 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Protecting Routes with Gaurds
 * Demo: Protecting Routes with Gaurds
 * Checklists and Summary
+
+### Angular Modules
+* What Is an Angular Module?
+* Bootstrap Array
+* Declarations Array
+* Exports Array
+* Imports Array
+* Providers Array
+* Feature Modules
+* Demo: Feature Modules
