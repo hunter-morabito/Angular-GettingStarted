@@ -99,3 +99,4 @@ This project was completed alongside the 'Angular-Getting Started' course offere
 * Providers Array
 * Feature Modules
 * Demo: Feature Modules
+* Shared Module
